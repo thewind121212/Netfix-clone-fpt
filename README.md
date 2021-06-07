@@ -21,6 +21,3 @@ npm start
 * Axios
 * lodash
 
-## Author
-
-* **Ingrid Amaral** - [GitHub](https://github.com/IngridAmaral)
